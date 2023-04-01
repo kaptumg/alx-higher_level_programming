@@ -1,6 +1,7 @@
-#!/bin/bash/python3
-"""this is an empty class that defines square"""
+#!/usr/bin/python3
+"""This class declares a square"""
+
 
 class Square:
-    """Defining a square"""
+    """Declares square"""
     pass
